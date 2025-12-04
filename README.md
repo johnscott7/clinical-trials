@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/johnscott7/clinical-trials-to-approvals/main/docs/Approval-Stamp.jpg"
+  <img src="https://raw.githubusercontent.com/johnscott7/clinical-trials/main/docs/Approval-Stamp.jpg"
   alt="Clinical Trials and Drug Development" 
   width="800">
   <br>
