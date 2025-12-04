@@ -5,7 +5,7 @@
   <br>
 </h1> 
 
-# From Clinical Trials to Approvals: Exploring What Drives Successful Drug Deveopment
+# Clinical Trials: Exploring Patterns in Global Drug Development
 
 ## Table of Contents
 - [1. Business Issue](#1-business-issue)
@@ -81,7 +81,7 @@ All sources are publicly available and may be reused for research and educationa
   [World Bank Health Expenditure CSV](https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD)  
   [World Bank API (downloadable CSV)](https://api.worldbank.org/v2/en/indicator/SH.XPD.CHEX.PC.CD?downloadformat=csv)  
 - **Description:** Country-level health expenditure per capita (current USD). Used to normalize clinical trial and approval activity by national health spending.  
-- **Relevant Fields Used:** Country name, year, health expenditure per capita  
+- **Relevant Fields Used:** `NCT Number`, `Study Title`, `Study URL`, `Study Status`, `Conditions`, `Interventions`, `Sponsor`, `Collaborators`, `Phases`, `Enrollment`, `Funder Type`, `Study Type`, `Start Date`, `Primary Completion Date`, `Completion Date`, `Locations` 
 - **Purpose:** Provide contextual economic data to explore variation in trial and approval outcomes across countries.  
 - **Licensing:** Data provided by the World Bank Open Data portal under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. Attribution: *World Bank, Health Expenditure per Capita (2025)*.  
 - **Optional Extensions:** Future enhancements may incorporate **PharmaPendium** or **DrugBank** data to improve linkage between drug approvals and clinical trials.
