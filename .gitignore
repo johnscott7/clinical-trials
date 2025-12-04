@@ -1,0 +1,24 @@
+# Ignore Jupyter autosave checkpoints and test files
+notebooks/test/
+.ipynb_checkpoints/
+
+# Ignore raw and processed data
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.json
+
+# Ignore temporary or exported results
+results/
+outputs/
+*.pdf
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
